@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Pet
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Enemy
+  - Player Bullets
+  - Enemy Bullets
+  - Items
+  - Walkable
+  - Pet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3038850287
+    locked: 0
+  - name: Floor Decoration
+    uniqueID: 502728825
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3783569289
+    locked: 0
+  - name: Items
+    uniqueID: 1852122323
+    locked: 0
+  - name: Characters
+    uniqueID: 1156600663
+    locked: 0
+  - name: Bullets
+    uniqueID: 1898782067
+    locked: 0

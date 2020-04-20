@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 2acd67d499d2547a1bc728f2b9c48e82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8185252286816643056
+    second: walls_0
+  - first:
+      213: 4723250963254362342
+    second: walls_1
+  - first:
+      213: 2029603016695656400
+    second: walls_2
+  - first:
+      213: 8147275610191718606
+    second: walls_3
+  - first:
+      213: -24075806118037059
+    second: walls_4
+  - first:
+      213: -4818650310412941511
+    second: walls_5
+  - first:
+      213: -4181636054691309495
+    second: walls_0
+  - first:
+      213: 755990378472828906
+    second: walls_1
+  - first:
+      213: 704046420393380394
+    second: walls_2
+  - first:
+      213: -6720378339199508535
+    second: walls_3
+  - first:
+      213: 8568489111141167840
+    second: walls_4
+  - first:
+      213: -2701415513408639039
+    second: walls_5
+  - first:
+      213: -1031414003539726126
+    second: walls_6
+  - first:
+      213: 1115358595779141345
+    second: walls_7
+  - first:
+      213: 261897327538917956
+    second: walls_8
+  - first:
+      213: -8797753539667543100
+    second: walls_9
+  - first:
+      213: 4725566240530097611
+    second: walls_10
+  - first:
+      213: 6941044494407015772
+    second: walls_11
+  - first:
+      213: 4948975480665631257
+    second: walls_12
+  - first:
+      213: 4419895515107148841
+    second: walls_13
+  - first:
+      213: -2858659963971078791
+    second: walls_14
+  - first:
+      213: 3050078739295607600
+    second: walls_15
+  - first:
+      213: -6942478570949865756
+    second: walls_16
+  - first:
+      213: 5808592622507235539
+    second: walls_17
+  - first:
+      213: -5199613361349611217
+    second: walls_18
+  - first:
+      213: 2689462866469278851
+    second: walls_19
+  - first:
+      213: -674365099278563466
+    second: walls_20
+  - first:
+      213: 2937849406781047536
+    second: walls_21
+  - first:
+      213: 3596951920826154220
+    second: walls_22
+  - first:
+      213: -2025498520911094271
+    second: walls_23
+  - first:
+      213: -156255788768204352
+    second: walls_24
+  - first:
+      213: -394062059835265117
+    second: walls_25
+  - first:
+      213: -6810102771080225870
+    second: walls_26
+  - first:
+      213: 1612206129647790914
+    second: walls_27
+  - first:
+      213: -5893872823423097886
+    second: walls_28
+  - first:
+      213: 7640190859277038996
+    second: walls_29
+  - first:
+      213: 5298484932928284341
+    second: walls_30
+  - first:
+      213: 2235706861101534849
+    second: walls_31
+  - first:
+      213: -2083587809605425556
+    second: walls_32
+  - first:
+      213: 1393229536087524929
+    second: walls_33
+  - first:
+      213: 4348915520329845232
+    second: walls_34
+  - first:
+      213: -7778011983984834028
+    second: walls_35
+  - first:
+      213: -4736528836439802678
+    second: walls_36
+  - first:
+      213: 5630870268809034554
+    second: walls_37
+  - first:
+      213: -167388734037847649
+    second: walls_38
+  - first:
+      213: -2477936197045412786
+    second: walls_39
+  - first:
+      213: 261074717711556055
+    second: walls_40
+  - first:
+      213: 8357702965634739773
+    second: walls_41
+  - first:
+      213: 5668241749830637126
+    second: walls_42
+  - first:
+      213: 8961658934299784465
+    second: walls_43
+  - first:
+      213: -6374669732604373977
+    second: walls_44
+  - first:
+      213: -926729684182868150
+    second: walls_45
+  - first:
+      213: -5543484424512286162
+    second: walls_46
+  - first:
+      213: -1910834801046434070
+    second: walls_47
+  - first:
+      213: 9011702929377101749
+    second: walls_48
+  - first:
+      213: 1843661150099973749
+    second: walls_49
+  - first:
+      213: 4587476378402164411
+    second: walls_50
+  - first:
+      213: -3303040638038861427
+    second: walls_51
+  - first:
+      213: -675258098023705648
+    second: walls_52
+  - first:
+      213: -2366613113284852524
+    second: walls_53
+  - first:
+      213: 37492714645190475
+    second: walls_54
+  - first:
+      213: -7450777465938075793
+    second: walls_55
+  - first:
+      213: 197780450198225363
+    second: walls_56
+  - first:
+      213: -2665230060480040456
+    second: walls_57
+  - first:
+      213: 8287246233964046215
+    second: walls_58
+  - first:
+      213: 5724505351371347524
+    second: walls_59
+  - first:
+      213: 5376964596652332936
+    second: walls_60
+  - first:
+      213: 356732375505496361
+    second: walls_61
+  - first:
+      213: -4201417405860910041
+    second: walls_62
+  - first:
+      213: 9117534200160873820
+    second: walls_63
+  - first:
+      213: 8461701915135797134
+    second: walls_64
+  - first:
+      213: -4924757795648595644
+    second: walls_65
+  - first:
+      213: 2937946092326762692
+    second: walls_66
+  - first:
+      213: 1652021271489047436
+    second: walls_67
+  - first:
+      213: 823886439976982490
+    second: walls_68
+  - first:
+      213: 4821944805890243131
+    second: walls_69
+  - first:
+      213: -7076699197966585869
+    second: walls_70
+  - first:
+      213: 7096798501205025205
+    second: walls_71
+  - first:
+      213: -7216406123448068668
+    second: walls_72
+  - first:
+      213: -8766475701601114261
+    second: walls_73
+  - first:
+      213: 784694960649504614
+    second: walls_74
+  - first:
+      213: -1384375764331305496
+    second: walls_75
+  - first:
+      213: -962927252848663879
+    second: walls_76
+  - first:
+      213: 7674189504211388944
+    second: walls_77
+  - first:
+      213: -2681108299720330933
+    second: walls_78
+  - first:
+      213: 4373311913038614814
+    second: walls_79
+  - first:
+      213: 6219131823702835700
+    second: walls_80
+  - first:
+      213: -1713969679350470470
+    second: walls_81
+  - first:
+      213: -8197954504293511776
+    second: walls_82
+  - first:
+      213: 578575056773263613
+    second: walls_83
+  - first:
+      213: -6202370775513616765
+    second: walls_84
+  - first:
+      213: -4877530179261487360
+    second: walls_85
+  - first:
+      213: -5920577151659661490
+    second: walls_86
+  - first:
+      213: 200022492536152297
+    second: walls_87
+  - first:
+      213: -4542926843615941887
+    second: walls_88
+  - first:
+      213: 8108732017571522893
+    second: walls_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948982cd928d7f5c0800000000000000
+      internalID: -4181636054691309495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6c7a6e31dd7a00800000000000000
+      internalID: 755990378472828906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2acee83d7645c900800000000000000
+      internalID: 704046420393380394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf98cfa18b6cb2a0800000000000000
+      internalID: -6720378339199508535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e23f53e27369e670800000000000000
+      internalID: 8568489111141167840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf6c8c37e4a28ad0800000000000000
+      internalID: -2701415513408639039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0b6aead6eafa1f0800000000000000
+      internalID: -1031414003539726126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1892cbbc8a7f00800000000000000
+      internalID: 1115358595779141345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0df0d4417bc4d43a6a0c04860b5f1dd4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
